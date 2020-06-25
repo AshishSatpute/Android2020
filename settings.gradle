@@ -1,2 +1,3 @@
+include ':rxandroid'
 include ':app'
 rootProject.name = "Android2020"
